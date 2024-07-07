@@ -24,8 +24,8 @@
 **Important**: Input files must be in CSV format with UTF-8 encoding.
 
 **Members**: 
-- Anmol Kumar
 - Jasmer Sanjotra
+- Kumar Anmol
 - Md. Zaeem
 - Parth Toshiniwal
 - Prakhar Mishra

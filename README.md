@@ -22,3 +22,11 @@
 **Note**: The rows limit is currently set to the top 20 rows only for precautionary purposes. You can change it as per your needs from `graph_builder.py`.
 
 **Important**: Input files must be in CSV format with UTF-8 encoding.
+
+**Members**: 
+- Anmol Kumar
+- Jasmer Sanjotra
+- Md. Zaeem
+- Parth Toshiniwal
+- Prakhar Mishra
+- Vedant Agarwal

@@ -28,5 +28,5 @@
 - Kumar Anmol
 - Md. Zaeem
 - Parth Toshiniwal
-- Prakhar Mishra
+- Prkhar Mishra
 - Vedant Agarwal
